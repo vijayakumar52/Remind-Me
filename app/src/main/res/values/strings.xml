@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Remind Me</string>
+    <string name="google_maps_key" translatable="false">AIzaSyCpKHd-3-YlXwDKE8fPTeYYy1E23mUKD5A</string>
+    <string name="remind_hint">Search places</string>
 </resources>
